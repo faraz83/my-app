@@ -7,7 +7,7 @@ function ProductList() {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Create & inspire. it's Lama</h1>
+        <h1 className="pl-title">samples , Faraz Kasiri</h1>
         <p className="pl-desc">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit, eius
           at veritatis, fuga blanditiis ut nihil minus, assumenda cupiditate
